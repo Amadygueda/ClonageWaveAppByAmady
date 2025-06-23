@@ -1,37 +1,31 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+# 🎨 Palette de Couleurs - Wave Style Fintech
 
-# dependencies
-node_modules/
+## Couleurs principales
+- **Bleu Primaire :** #4B4DED
+- **Bleu Clair :** #00CFFF
+- **Violet Foncé :** #3C2EC6
+- **Blanc :** #FFFFFF
 
-# Expo
-.expo/
-dist/
-web-build/
-expo-env.d.ts
+## Couleurs secondaires
+- **Gris Clair :** #8E8E93
+- **Noir Doux :** #1C1C1E
+- **Rouge Retrait :** #FF3B30
 
-# Native
-.kotlin/
-*.orig.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
+## Accents
+- **Orange Icônes :** #FF9500
+- **Vert Succès :** #34C759
 
-# Metro
-.metro-health-check*
+## Exemples
+- **Background Principal :** #FFFFFF
+- **Header/Banner Solde :** #4B4DED
+- **Boutons CTA :** #4B4DED
+- **Textes Forts :** #1C1C1E
+- **Textes Secondaires :** #8E8E93
 
-# debug
-npm-debug.*
-yarn-debug.*
-yarn-error.*
+## Font Conseillée
+- SF Pro Rounded ou Poppins/Roboto
 
-# macOS
-.DS_Store
-*.pem
-
-# local env files
-.env*.local
-
-# typescript
-*.tsbuildinfo
+## UI Conseils
+- Padding interne : 16–24px
+- Coins arrondis : 8–12px
+- Utiliser beaucoup de blanc pour l’espace
